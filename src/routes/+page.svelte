@@ -10,26 +10,6 @@
 	}
 </script>
 
-<header>
-	<nav class="navbar">
-		<a href="/">
-			로고~
-		</a>
-		<ul>
-			<a href="/">home</a>
-			<a href="/about">about</a>
-			<a href="/test">test</a>
-		</ul>
-		<div>
-			<button>
-				질문 버튼
-			</button>
-			<button>
-				게임 실행
-			</button>
-		</div>
-	</nav>
-</header>
 <h1 class="text-3xl font-bold underline">tailwind test</h1>
 <h1>테스트 하는 페이지입니다</h1>
 <h3>h3입니다</h3>
@@ -57,13 +37,4 @@
 	:global(html) {
 		background-color: theme(colors.gray.100);
 	}
-
-	.navbar {
-    position: relative;
-    display: flex;
-    align-items: stretch;
-    justify-content: space-between;
-    padding-top: 0.75rem;
-    padding-bottom: 0.75rem;
-}
 </style>

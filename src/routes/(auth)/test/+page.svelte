@@ -21,25 +21,6 @@
 
 </script>
 
-<nav class="navbar">
-  <a href="/">
-    로고~
-  </a>
-  <ul>
-    <a href="/">home</a>
-    <a href="/about">about</a>
-    <a href="/test">test</a>
-  </ul>
-  <div>
-    <button>
-      질문 버튼
-    </button>
-    <button>
-      게임 실행
-    </button>
-  </div>
-</nav>
-
 <h1>
   test 하는 중입니다
 </h1>

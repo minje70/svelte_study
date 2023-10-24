@@ -7,26 +7,7 @@
 		alert(`id: ${id}, pw: ${pw}`);
 	}
 </script>
-<header>
-	<nav class="navbar">
-		<a href="/">
-			로고~
-		</a>
-		<ul>
-			<a href="/">home</a>
-			<a href="/about">about</a>
-			<a href="/test">test</a>
-		</ul>
-		<div>
-			<button>
-				질문 버튼
-			</button>
-			<button>
-				게임 실행
-			</button>
-		</div>
-	</nav>
-</header>
+
 <h1>About 페이지입니다</h1>
 
 <div>
