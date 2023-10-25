@@ -7,6 +7,7 @@
 			<a href="/">home</a>
 			<a href="/about">about</a>
 			<a href="/test">test</a>
+			<a href="/dynamicRoutes">dynamicRoutes</a>
 		</ul>
 		<div>
 			<button>

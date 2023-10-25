@@ -1,5 +1,6 @@
 <script>
-	import "../app.css";
+	// 여기서 $로 src부터 경로 지정을 못한다.
+	import '../../app.css';
 
 	let name = 'world';
 	let id = ''
