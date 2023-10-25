@@ -27,8 +27,3 @@ export async function POST(requestEvent) {
   // return new Response(JSON.stringify(newComment), { status: 201 })
   return json(newComment, { status: 201 });
 }
-
-
-export async function FATCH() {
-  
-}
